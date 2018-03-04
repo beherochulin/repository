@@ -1,8 +1,8 @@
 {
-  "name": "bosnadev/repositories",
+  "name": "beherochulin/repositories",
   "description": "Laravel Repositories",
   "license": "MIT",
-  "homepage": "https://bosnadev.com",
+  "homepage": "http://cms.beesoft.ink",
   "keywords": ["laravel", "repository", "repositories", "eloquent", "database"],
   "licence": "MIT",
   "authors": [
@@ -13,6 +13,10 @@
     {
       "name": "Maarten Paauw",
       "email": "maartenpaauw@gmail.com"
+    },
+    {
+      "name": "BeeSoft",
+      "email": "beherochuling@qq.com"
     }
   ],
   "require": {
